@@ -1,0 +1,8 @@
+main: net.crimsonmc.CrimsonAPI
+name: CrimsonAPI
+version: 0.0.1
+api-version: 1.19.3
+load: POSTWORLD
+author: Max
+website: crimsonmc.net
+
